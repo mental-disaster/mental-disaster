@@ -36,4 +36,4 @@
 ## 📎 Links
 
 - 📄 [이력서 보기](https://resume-tailwind-wheat.vercel.app/)
-- <img src=”https://simpleicons.org/?modal=icon&q=velog” width="28" alt="velog" /> [블로그 바로가기](https://velog.io/@dummy618234/posts)
+- <img src="https://simpleicons.org/?modal=icon&q=velog" width="28" alt="velog" /> [블로그 바로가기](https://velog.io/@dummy618234/posts)
